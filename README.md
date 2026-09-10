@@ -1,4 +1,3 @@
-
 # ShopMart E-commerce
 
 ShopMart is a PHP-based e-commerce website.
